@@ -2,7 +2,7 @@
 
 This Java project simulates a basic online shopping system with the following key features:
 
-1. **User Login/Logout**: Users can log in with predefined credentials (`username: sharath`, `password: 1234`). Logged-in users can access additional features like adding items to the cart and checking out.
+1. **User Login/Logout**: Users can log in with predefined credentials (`username: shankar`, `password: 1234`). Logged-in users can access additional features like adding items to the cart and checking out.
 
 2. **Browse Products**: Users can view a list of available products, each with a unique ID, name, and price.
 
