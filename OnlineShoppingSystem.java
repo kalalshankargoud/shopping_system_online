@@ -95,7 +95,7 @@ public class OnlineShoppingSystem {
         String password = scanner.nextLine();
 
         try {
-            if (!"sharath".equals(username) || !"1234".equals(password)) {
+            if (!"shankar".equals(username) || !"1234".equals(password)) {
                 throw new InvalidLoginException("Invalid username or password. Please try again.");
             }
             currentUser = new User(username, password);
@@ -169,3 +169,4 @@ public class OnlineShoppingSystem {
         cart.clearCart();
     }
 }
+
