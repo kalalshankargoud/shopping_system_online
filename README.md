@@ -16,9 +16,6 @@ This Java project simulates a basic online shopping system with the following ke
 
 The project flow involves menu-based interaction, allowing users to navigate through login, product browsing, cart management, and checkout.
 
+![Screenshot 2026-01-31 122335](https://github.com/user-attachments/assets/3abf91ea-f412-4d9f-a83e-421aeb60e0ac)
+![Screenshot 2026-01-31 122348](https://github.com/user-attachments/assets/506b6452-7d3a-43ce-89b1-1244e79fd892)
 
-
-![Screenshot 2024-08-18 001320](https://github.com/user-attachments/assets/fac09a7a-c5d3-4165-9814-e37d5e1906d6)
-
-
-![Screenshot 2024-08-18 001536](https://github.com/user-attachments/assets/8a55b4ee-9a14-4676-8456-492005cc8cfc)
